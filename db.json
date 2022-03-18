@@ -1,13 +1,13 @@
 {
   "feedbacks": [
     {
-      "rating": 6,
-      "description": "asdasdasdasd",
+      "rating": 8,
+      "description": "It is nice!",
       "id": 1
     },
     {
       "rating": 6,
-      "description": "123123123123",
+      "description": "Not really good!",
       "id": 2
     }
   ]
